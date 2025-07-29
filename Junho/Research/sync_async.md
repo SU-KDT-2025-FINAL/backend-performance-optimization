@@ -1,3 +1,5 @@
+동기와 비동기에대해 설명해줘 - gpt o4-mini
+
 # 동기(Synchronous) vs 비동기(Asynchronous)
 
 ## 동기(Synchronous)
