@@ -1,0 +1,13 @@
+{
+    "name": "news-crawler",
+    "version": "1.1.0",
+    "scripts": {
+      "crawl": "node crawlers/crawl.js"
+    },
+    "dependencies": {
+      "axios": "^1.6.8",
+      "cheerio": "^1.0.0-rc.12",
+      "xml2js": "^0.6.0"
+    }
+  }
+  
